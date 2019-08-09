@@ -1,2 +1,2 @@
-# kyungoh_wiki
-kyungoh
+# kyoungoh_wiki
+kyoungoh
